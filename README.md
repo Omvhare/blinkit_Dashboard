@@ -67,9 +67,9 @@ To analyze Blinkit's sales performance and derive business insights using KPIs:
 
 ---
 
-## 📷 Preview
+ ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard](images/Blinkit SS.png)
 
 ---
 
